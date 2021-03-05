@@ -220,9 +220,9 @@ class Sentimentmodel(object):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Language Model')
     
-    parser.add_argument('--train_file', help='Trained file', default="./dataset/test.small.txt", type=str)
+    parser.add_argument('--train_file', help='Trained file', default="./dataset/train.small.txt", type=str)
 
-    parser.add_argument('--dev_file', help='Trained file', default="./dataset/test.small.txt", type=str)
+    parser.add_argument('--dev_file', help='Trained file', default="./dataset/val.small.txt", type=str)
     
     parser.add_argument('--test_file', help='Tested file', default="./dataset/test.small.txt", type=str)
 
