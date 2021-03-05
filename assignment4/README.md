@@ -54,9 +54,11 @@ We will train a neural network SC model using reviews (as inputs) and rating sco
 ## Assignment 4
 
 ![UniLSTM](./images/lstm.png)
+
 *Figure 1. A UniLSTM model for Sentiment Classification*
 
 ![BiLSTM](./images/deep_bilstm.png)
+
 *Figure 2. A deep BiLSTM model for Sentiment Classification*
 
 In this assignment, we are going to implement two models (one UniLSTM and one deep BiLSTM ) 
