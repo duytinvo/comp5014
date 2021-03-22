@@ -1,6 +1,6 @@
 ./idea/
 venv/
-utils/core_nns_sln.py
-model_sln.py
-predict_sln.py
+#utils/core_nns_sln.py
+#model_sln.py
+#predict_sln.py
 results/
